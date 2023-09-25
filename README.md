@@ -1,2 +1,2 @@
-# Coursera_Intro-_to-_GIT
+# Coursera
 Module 3 Graded Assignment
